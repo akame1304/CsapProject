@@ -28,4 +28,3 @@ This project consist in the implementation of a log server that connectsan unlim
 6. Send a series of messages from the clients to the server that will be saved in the log file.
 7. To close the client connection write on the client terminal "exit" or Ctrl+C.
 8. To shut down the server press Ctrl+C.
-
